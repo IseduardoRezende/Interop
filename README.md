@@ -4,7 +4,7 @@
 # What is Platform Invoke (P/Invoke) ?
 P/Invoke is a technology that allows you to access structs, callbacks, and functions in unmanaged libraries from your managed code. Most of the P/Invoke API is contained in two namespaces: System and System.Runtime.InteropServices. Using these two namespaces give you the tools to describe how you want to communicate with the native component.
 
-#Example
+# Example
 ```cs
 using System;
 using System.Runtime.InteropServices;
